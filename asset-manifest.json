@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/timeline-testcase/static/css/main.4adce8d8.css",
+    "main.js": "/timeline-testcase/static/js/main.283da0cd.js",
+    "static/js/453.620e598b.chunk.js": "/timeline-testcase/static/js/453.620e598b.chunk.js",
+    "static/media/sustainable-development-goals-still-life.jpg": "/timeline-testcase/static/media/sustainable-development-goals-still-life.c72e0cdf85b2e96f7f3c.jpg",
+    "static/media/White-Revolution.png": "/timeline-testcase/static/media/White-Revolution.3961b58d240b4c81043e.png",
+    "static/media/industry.png": "/timeline-testcase/static/media/industry.c20d85cfd019d2adac3a.png",
+    "static/media/digital.png": "/timeline-testcase/static/media/digital.3966e37b9b833f930df3.png",
+    "static/media/ecnomic.png": "/timeline-testcase/static/media/ecnomic.bcc48c0d10e821ccabf8.png",
+    "static/media/it.png": "/timeline-testcase/static/media/it.14b57934eb5ba027f019.png",
+    "static/media/blue.png": "/timeline-testcase/static/media/blue.bc2f96ef41a6adb59fda.png",
+    "index.html": "/timeline-testcase/index.html",
+    "main.4adce8d8.css.map": "/timeline-testcase/static/css/main.4adce8d8.css.map",
+    "main.283da0cd.js.map": "/timeline-testcase/static/js/main.283da0cd.js.map",
+    "453.620e598b.chunk.js.map": "/timeline-testcase/static/js/453.620e598b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4adce8d8.css",
+    "static/js/main.283da0cd.js"
+  ]
+}
